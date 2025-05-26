@@ -1,4 +1,4 @@
-# 🚀 Simple Bash Backup Script
+# 🚀 Bash Backup Script
 
 ---
 
@@ -102,5 +102,3 @@ Here's how you can set it up:
 
 3.  **Save and Exit:**
     After adding the line, save the `crontab` file and exit your editor. `cron` will automatically detect and apply the new schedule.
-
-That's it! Your backup script will now automatically run at your specified intervals, ensuring your important files are consistently archived. Happy backing up! 💾
